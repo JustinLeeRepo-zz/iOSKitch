@@ -65,15 +65,18 @@
 }
 
 .bottombutton {
-    position:relative;
-    left: 50%;
-    margin-top:90%;
+  position:relative;
+  left: 50%;
+  margin-top:90%;
 }
 
 .profilePad {
   padding-top: 80px;
 }
 
+.menuColor {
+	background-color: #f27242;
+}
 .profileContents {
   display: block;
   width: 150px;
