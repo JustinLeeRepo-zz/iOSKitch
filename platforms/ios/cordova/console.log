@@ -2618,3 +2618,12 @@
 2015-03-06 00:29:11.994 Hippos[6119:311448] [CDVTimer][TotalPluginStartup] 0.231028ms
 2015-03-06 00:29:13.254 Hippos[6119:311448] Resetting plugins due to page load.
 2015-03-06 00:29:13.612 Hippos[6119:311448] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/6B427C4D-91D3-4A3B-BBAA-394704E3239F/Hippos.app/www/index.html#/app/profile
+2015-03-06 00:43:07.616 Hippos[6119:325640] Terminating since there is no system app.
+2015-03-07 10:26:38.383 Hippos[7442:441553] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-07 10:26:38.439 Hippos[7442:441553] Multi-tasking -> Device: YES, App: YES
+2015-03-07 10:26:38.501 Hippos[7442:441553] Unlimited access to network resources
+2015-03-07 10:26:40.422 Hippos[7442:441553] [CDVTimer][keyboard] 0.064969ms
+2015-03-07 10:26:40.422 Hippos[7442:441553] [CDVTimer][TotalPluginStartup] 27.704000ms
+2015-03-07 10:26:41.814 Hippos[7442:441553] Resetting plugins due to page load.
+2015-03-07 10:26:42.605 Hippos[7442:441553] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/5315CD20-5D29-4B99-927D-4743D5475050/Hippos.app/www/index.html#/app/profile
+2015-03-07 10:26:55.105 Hippos[7442:441553] THREAD WARNING: ['Keyboard'] took '11.937744' ms. Plugin should use a background thread.
