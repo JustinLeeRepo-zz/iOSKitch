@@ -2635,3 +2635,12 @@
 2015-03-08 15:11:39.297 Hippos[8880:635179] Resetting plugins due to page load.
 2015-03-08 15:11:40.474 Hippos[8880:635179] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/345B6199-E295-495E-A893-12F6A28F1975/Hippos.app/www/index.html#/app/profile
 2015-03-08 15:13:07.609 Hippos[8880:635179] Doing login [object Object]
+2015-03-10 22:51:48.839 Hippos[12178:1039179] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/3F6485C4-383C-41BD-8983-F0A0BBC4F829/data/Containers/Data/Application/C74EF4B1-4565-4F31-89EA-77C2D4CA42A1/Library/Cookies/Cookies.binarycookies
+2015-03-10 22:51:49.639 Hippos[12178:1039179] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 22:51:49.654 Hippos[12178:1039179] Multi-tasking -> Device: YES, App: YES
+2015-03-10 22:51:49.697 Hippos[12178:1039179] Unlimited access to network resources
+2015-03-10 22:51:51.229 Hippos[12178:1039179] [CDVTimer][keyboard] 0.204980ms
+2015-03-10 22:51:51.229 Hippos[12178:1039179] [CDVTimer][TotalPluginStartup] 0.699997ms
+2015-03-10 22:51:52.406 Hippos[12178:1039179] Resetting plugins due to page load.
+2015-03-10 22:51:52.899 Hippos[12178:1039179] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/3F6485C4-383C-41BD-8983-F0A0BBC4F829/data/Containers/Bundle/Application/325F652C-358B-4A56-BFB2-44750DF7592C/Hippos.app/www/index.html#/app/profile
+2015-03-10 22:51:53.660 Hippos[12178:1039179] THREAD WARNING: ['Device'] took '13.823975' ms. Plugin should use a background thread.
