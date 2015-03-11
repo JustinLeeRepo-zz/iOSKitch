@@ -77,6 +77,11 @@
 .menuColor {
 	background-color: #f27242;
 }
+
+.buttonBorder {
+	border:0 none;
+}
+
 .profileContents {
   display: block;
   width: 150px;
